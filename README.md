@@ -1,7 +1,5 @@
 # Sorting
 
-## Sorting
-
 time           | best        | worst
 ---------------|-------------|-------
 bubble sort    | O(n)        | O(n^2)
