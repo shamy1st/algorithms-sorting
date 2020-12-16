@@ -18,7 +18,7 @@ space          | best        | worst
 merge sort     | O(n)        | O(n)
 quick sort     | O(log n)    | O(n)
 
-### Bubble Sort
+### 01. Bubble Sort
 ![](https://github.com/shamy1st/algorithms/blob/main/images/bubble-sort-complexity.png)
 
 --          | best  | worst
@@ -54,7 +54,7 @@ bubble sort | O(n)  | O(n^2)
             }
         }
 
-### Selection Sort
+### 02. Selection Sort
 ![](https://github.com/shamy1st/algorithms/blob/main/images/selection-sort-complexity.png)
 
 --             | best   | worst
@@ -83,7 +83,7 @@ selection sort | O(n^2) | O(n^2)
             return minIndex;
         }
 
-### Insertion Sort
+### 03. Insertion Sort
 ![](https://github.com/shamy1st/algorithms/blob/main/images/insertion-sort-complexity.png)
 
 --             | best   | worst
@@ -109,7 +109,7 @@ insertion sort | O(n)   | O(n^2)
             }
         }
 
-### Merge Sort
+### 04. Merge Sort
 ![](https://github.com/shamy1st/algorithms/blob/main/images/merge-sort-complexity.png)
 
 time           | best        | worst
@@ -161,7 +161,7 @@ merge sort     | O(n)        | O(n)
 
 * **In place implementation**
 
-### Quick Sort
+### 05. Quick Sort
 ![](https://github.com/shamy1st/algorithms/blob/main/images/quick-sort-complexity.png)
 
 time           | best        | worst
@@ -208,7 +208,7 @@ quick sort     | O(log n)    | O(n)
             return boundary;
         }
 
-### Counting Sort
+### 06. Counting Sort
 ![](https://github.com/shamy1st/algorithms/blob/main/images/counting-sort.png)
 ![](https://github.com/shamy1st/algorithms/blob/main/images/counting-sort-complexity.png)
 
@@ -236,7 +236,7 @@ counting sort  | O(n) | O(k)
             }
         }
 
-### Bucket Sort
+### 07. Bucket Sort
 ![](https://github.com/shamy1st/algorithms/blob/main/images/bucket-sort.png)
 ![](https://github.com/shamy1st/algorithms/blob/main/images/bucket-sort-complexity.png)
 ![](https://github.com/shamy1st/algorithms/blob/main/images/bucket-sort-graph.png)
